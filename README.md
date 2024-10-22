@@ -6,7 +6,7 @@ It would be cool to achieve a color gradient of some kind within the water. I wa
 
 Thematically I think this project reminds me the most of the readings on interactivity. Even though I plan to do a time-based animation there’s a theme throughout the novel about the relationship the world/our real world and the house where the narrator lives, and how each is responsive to the other. 
 
-Below is a concpetual sketch and some inspiration images I collected.
+Below is a conceptual sketch and some inspiration images I collected.
 
 ![sketch](./images/sketch1.jpeg)
 ![inspiration](./images/inspo1.jpg)
