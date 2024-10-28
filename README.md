@@ -1,3 +1,13 @@
+# Milestone 2
+This week I tried to tackle the generative elements of my midterm that seemed the most difficult: the tidal movement and color gradient, an interactive swelling effect for the waves, and an albatross flying across the screen. I used a custom function to draw the waves which I adapted from a [project in the p5js library](https://editor.p5js.org/pippinbarr/sketches/bgKTIXoir). They move across the screen in semi-regular but staggered motions that create a water-y effect. I also adapted the color range based on one of my inspiration photos, though I might reverse the gradient once I add the background collage and see which option I like better. 
+
+In addition to the base waves which use noise(), I also created a swell effect that rises and subsides in a loop. Initially I had it increase incrementally based on mouse clicks but I wanted it to be a smoother animation so now it’s just triggered once. 
+
+Finally I uploaded an image of an albatross with a transparent background and added code to have it fly across the screen in a looping sin wave. I initially explored something more like [this p5js library repo](https://editor.p5js.org/KatalinVarga/sketches/rT-XktCX-) but I wanted to finally use sin/cos SOMEwhere so for now it moves in a very regular pattern. 
+
+Next week I will work on the background which will be a collaged grand hall. I’ll need to find some Greek-looking interiors/statues/etc, make the background transparent if necessary, and then combine them in the function(setup) section. I’ll probably have to make some tweaks to my code based on how the background goes.  
+
+# Milestone 1
 I want to illustrate a cover for [Piranesi](https://en.wikipedia.org/wiki/Piranesi_(novel)), by Susanna Clarke. In the novel, the narrator lives alone an enormous house full of statues with a grand staircase. The lower halls of the house are flooded and the world of the house is so huge that the narrator experiences tides.
 
 I’d like to depict the main hall and staircase as static shapes with tides going in and out, with maybe some smaller lapping of waves and one big swell. In the book the narrator has to be attentive to and respectful of the tides; other characters attempt to control them or subvert them with negative consequences so I think a time-based project is more appropriate than an interactive one. 
