@@ -5,7 +5,7 @@ In addition to the base waves which use noise(), I also created a swell effect t
 
 Finally I uploaded an image of an albatross with a transparent background and added code to have it fly across the screen in a looping sin wave. I initially explored something more like [this p5js library repo](https://editor.p5js.org/KatalinVarga/sketches/rT-XktCX-) but I wanted to finally use sin/cos SOMEwhere so for now it moves in a very regular pattern. 
 
-Next week I will work on the background which will be a collaged grand hall. I’ll need to find some Greek-looking interiors/statues/etc, make the background transparent if necessary, and then combine them in the function(setup) section. I’ll probably have to make some tweaks to my code based on how the background goes.  
+Next week I will work on the background which will be a collaged grand hall. I’ll need to find some Greek-looking interiors/statues/etc, make the background transparent if necessary, and then combine them in the function(setup) section. I’ll probably have to make some tweaks to my code based on how the background goes. If I have some time I also think it would be cool to link the bird and the swell so that the bird flies off if the swell is activated.
 
 # Milestone 1
 I want to illustrate a cover for [Piranesi](https://en.wikipedia.org/wiki/Piranesi_(novel)), by Susanna Clarke. In the novel, the narrator lives alone an enormous house full of statues with a grand staircase. The lower halls of the house are flooded and the world of the house is so huge that the narrator experiences tides.
