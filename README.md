@@ -1,3 +1,11 @@
+# Milestone 3
+
+what you’ve done this week
+description of the final interactivity or time-based logic
+images, drawings, sketches
+
+https://en.wikipedia.org/wiki/Carceri_d%27invenzione
+
 # Milestone 2
 This week I tried to tackle the generative elements of my midterm that seemed the most difficult: the tidal movement and color gradient, an interactive swelling effect for the waves, and an albatross flying across the screen. I used a custom function to draw the waves which I adapted from a [project in the p5js library](https://editor.p5js.org/pippinbarr/sketches/bgKTIXoir). They move across the screen in semi-regular but staggered motions that create a water-y effect. I also adapted the color range based on one of my inspiration photos, though I might reverse the gradient once I add the background collage and see which option I like better. 
 
