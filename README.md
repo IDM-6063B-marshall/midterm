@@ -1,10 +1,8 @@
 # Milestone 3
+This week I created and added a background representing the house where Piranesi takes place. I took inspiration by the [Carceri series by Giovanni Battista Piranesi](https://en.wikipedia.org/wiki/Carceri_d%27invenzione) which is also where the book and titular protagonist gets their names. I found a bunch of different architectural photos, removed their backgrounds, played with the color to make things cohesive, and then added statues as in the novel. I had also experimented with individually uploading and placing images in the canvas but it ended up being much easier and better looking to create one single image besides the albatross. 
 
-what you’ve done this week
-description of the final interactivity or time-based logic
-images, drawings, sketches
+In terms of code I added smaller swells at regular time intervals, and tweaked the big click-activated swell to start at whatever height the waves happened to be at the time of the click. I made some additional minor tweaks to better situate the waves and bird against the background and otherwise make the interaction smoother. 
 
-https://en.wikipedia.org/wiki/Carceri_d%27invenzione
 
 # Milestone 2
 This week I tried to tackle the generative elements of my midterm that seemed the most difficult: the tidal movement and color gradient, an interactive swelling effect for the waves, and an albatross flying across the screen. I used a custom function to draw the waves which I adapted from a [project in the p5js library](https://editor.p5js.org/pippinbarr/sketches/bgKTIXoir). They move across the screen in semi-regular but staggered motions that create a water-y effect. I also adapted the color range based on one of my inspiration photos, though I might reverse the gradient once I add the background collage and see which option I like better. 
